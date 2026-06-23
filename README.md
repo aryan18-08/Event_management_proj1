@@ -1,1 +1,0 @@
-# Event_management_proj1
